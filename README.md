@@ -1,4 +1,4 @@
-## olá mundo, Juan Vitor Macanhao Casimiro aqui
+## olá mundo, Juan Vitor Macanhão Casimiro aqui
 - 👨‍🎓 Atualmente estou aprendendo sobre machine learning
 <div align="center">
   <a href="https://github.com/Juan-Vitor-Macanhao-Casimir">
